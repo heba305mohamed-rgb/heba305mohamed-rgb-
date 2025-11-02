@@ -60,16 +60,6 @@ Streamlined office management, documentation, HR compliance, and financial repor
 📅 2013 – 2017  
 Led operations, trained over **80+ employees**, and maintained performance reporting and compliance standards.
 
----
-
-
-## 📜 Certifications
-
-- Data Challenger Track  
-- Neuro-Linguistic Programming  
-- English for Effective Communication  
-- English Upper Intermediate II  
-- Legal Affairs Training – GASCO (2005)
 
 ---
 
