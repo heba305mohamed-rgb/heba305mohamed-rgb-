@@ -43,9 +43,6 @@ My professional journey spans industries such as **cosmetics, digital marketing,
 📅 Feb 2025 – Oct 2025  
 Developed hands-on skills in **Excel, Power Query, Power BI, Tableau, SQL, Python**, and **Machine Learning** to support data-driven business decisions.
 
-### 📝 Al Resala Legal Translation Services — *Copywriter*  
-📅 Oct 2023 – Sep 2024  
-Created **SEO content** and **marketing copy** aligned with brand goals and digital growth strategies.
 
 ### 💼 Vision Cosmetics — *Sales Office Manager*  
 📅 Dec 2019 – Dec 2021  
@@ -63,18 +60,8 @@ Streamlined office management, documentation, HR compliance, and financial repor
 📅 2013 – 2017  
 Led operations, trained over **80+ employees**, and maintained performance reporting and compliance standards.
 
-### 🧒 Be First Nursery — *English Teacher*  
-📅 Dec 2012 – Nov 2013  
-Taught children aged 2–4, focusing on early English language development.
-
 ---
 
-## 🎓 Education
-
-**Cairo University**  
-*Faculty of Law* (2003 – 2007)
-
----
 
 ## 📜 Certifications
 
