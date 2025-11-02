@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Heba Mohamed  
 
-	![alt text](<img width="512" height="512" alt="analysis (1)" src="https://github.com/user-attachments/assets/dd52a98e-9e8b-40ff-a144-8caef48708f6" />)
 🎯 **Data & Sales Analyst | 10+ Years of Experience in Operations & Business Intelligence**  
 📍 Cairo, Egypt  
 📧 [heba.mohamed305@yahoo.com](mailto:heba.mohamed305@yahoo.com)  
